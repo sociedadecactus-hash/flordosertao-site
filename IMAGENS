@@ -1,8 +1,8 @@
-meusite/
+site-flor-do-sertao/
 │ index.html
 │ style.css
-│
-└── imagens/
-      foto1.jpg
-      banner.png
-      logo.png
+└───imagens/
+        logo.png
+        foto1.jpg
+        foto2.jpg
+        foto3.jpg
